@@ -29,3 +29,14 @@ Feel free to contribute or provide feedback!
 ## Acknowledgments
 
 Special thanks to [Mosh Hamedani](https://github.com/mosh-hamedani) for his guidance and expertise throughout the course. His dedication and support greatly contributed to the development of this project. 🙏
+
+## Screenshots
+
+![Screenshot 1](screenshots/1.png?raw=true "Optional Title")
+_First glance_
+![Screenshot 2](screenshots/2.png?raw=true "Optional Title")
+_Exploring games within a specific genre_
+![Screenshot 3](screenshots/3.png?raw=true "Optional Title")
+_Exploring games by platform_
+![Screenshot 4](screenshots/4.png?raw=true "Optional Title")
+_Sorting games by Popularity_
