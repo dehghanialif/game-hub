@@ -32,11 +32,14 @@ Special thanks to [Mosh Hamedani](https://github.com/mosh-hamedani) for his guid
 
 ## Screenshots
 
-![Screenshot 1](screenshots/1.png?raw=true "Optional Title")
 _First glance_
-![Screenshot 2](screenshots/2.png?raw=true "Optional Title")
+![Screenshot 1](screenshots/1.png?raw=true "Optional Title")
+
 _Exploring games within a specific genre_
-![Screenshot 3](screenshots/3.png?raw=true "Optional Title")
+![Screenshot 2](screenshots/2.png?raw=true "Optional Title")
+
 _Exploring games by platform_
-![Screenshot 4](screenshots/4.png?raw=true "Optional Title")
+![Screenshot 3](screenshots/3.png?raw=true "Optional Title")
+
 _Sorting games by Popularity_
+![Screenshot 4](screenshots/4.png?raw=true "Optional Title")
